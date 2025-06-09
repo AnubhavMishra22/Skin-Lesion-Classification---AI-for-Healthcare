@@ -19,24 +19,25 @@ Scikit-learn
 Matplotlib / Seaborn
 
 🚀 How to Run
-1.Clone the repository:
+
+1. Clone the repository:
 git clone https://github.com/yourusername/skin-lesion-hybrid-cnn-vit.git
 cd skin-lesion-hybrid-cnn-vit
 
 2. Install dependencies:
 pip install -r requirements.txt
 
-3.Download the BCN20000 dataset and place it in the data/ directory.
+3. Download the BCN20000 dataset and place it in the data/ directory.
 
-4.Run the Jupyter Notebook:
+4. Run the Jupyter Notebook:
 Jupyter notebook vit-bcn20000-project.ipynb
+
 
 📈 Results
 Hybrid CNN–ViT models outperform standalone architectures.
-
 Data augmentation improves generalization, especially for underrepresented classes.
-
 Detailed classification reports and confusion matrices are provided.
+
 
 📚 Primary References
 [Dosovitskiy et al., 2020] — Vision Transformer (ViT)
